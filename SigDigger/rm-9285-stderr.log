@@ -1,0 +1,5 @@
+rm: cannot remove '/home/kali/Radio/SigDigger/blsd-dir/build.sh': Permission denied
+rm: cannot remove '/home/kali/Radio/SigDigger/blsd-dir/dist-common.sh': Permission denied
+rm: cannot remove '/home/kali/Radio/SigDigger/blsd-dir/pkg-config-8849-stdout.log': Permission denied
+rm: cannot remove '/home/kali/Radio/SigDigger/blsd-dir/example.com': Permission denied
+rm: cannot remove '/home/kali/Radio/SigDigger/blsd-dir/pkg-config-8849-stderr.log': Permission denied

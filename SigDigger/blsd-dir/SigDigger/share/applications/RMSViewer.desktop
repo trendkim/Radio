@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=RMSViewer
+Comment=Integrate and plot RMS measurements from Suscan's CLI
+Exec=/home/kali/Radio/SigDigger/blsd-dir/deploy-root/usr/bin/SigDigger -t RMSViewer
+Icon=SigDigger
+Categories=HamRadio;
